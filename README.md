@@ -9,6 +9,3 @@ framework.php -- 框架文件
 
 ===================================
 Hint: Creating a new branch is quick and simple.
-
-
-make some modify and ...fix bug.
