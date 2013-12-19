@@ -8,4 +8,4 @@ framework.php -- 框架文件
 
 
 ===================================
-debug: Creating a new branch is quick and simple.
+debug: Creating a new branch is quick and simple. make some thing explict
